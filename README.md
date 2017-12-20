@@ -1,5 +1,7 @@
 # Welcome to the Modification Club!
 
+I'm currently this file to test git! Don't mind it!
+
 The DDLC Mod Template is an easy way to get started building your own game mods for Doki Doki Literature Club that adhere to [Team Salvato's IP Guidelines](http://teamsalvato.com/ip-guidelines/) for fan mods.
 
 ### Getting Started
